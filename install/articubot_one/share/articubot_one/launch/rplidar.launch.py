@@ -1,1 +1,0 @@
-/home/rox/cbot/src/articubot_one/launch/rplidar.launch.py
